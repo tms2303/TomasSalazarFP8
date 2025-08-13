@@ -1,0 +1,15 @@
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\bin\Debug\net8.0\4.CondicionalesCompuestos.exe
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\bin\Debug\net8.0\4.CondicionalesCompuestos.deps.json
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\bin\Debug\net8.0\4.CondicionalesCompuestos.runtimeconfig.json
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\bin\Debug\net8.0\4.CondicionalesCompuestos.dll
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\bin\Debug\net8.0\4.CondicionalesCompuestos.pdb
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.AssemblyInfo.cs
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.sourcelink.json
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.dll
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\refint\4.CondicionalesCompuestos.dll
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.pdb
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\4.CondicionalesCompuestos.genruntimeconfig.cache
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\4.CondicionalesCompuestos\4.CondicionalesCompuestos\obj\Debug\net8.0\ref\4.CondicionalesCompuestos.dll
