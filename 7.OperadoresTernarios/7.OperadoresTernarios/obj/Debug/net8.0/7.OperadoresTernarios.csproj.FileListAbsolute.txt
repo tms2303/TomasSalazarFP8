@@ -1,0 +1,15 @@
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\bin\Debug\net8.0\7.OperadoresTernarios.exe
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\bin\Debug\net8.0\7.OperadoresTernarios.deps.json
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\bin\Debug\net8.0\7.OperadoresTernarios.runtimeconfig.json
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\bin\Debug\net8.0\7.OperadoresTernarios.dll
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\bin\Debug\net8.0\7.OperadoresTernarios.pdb
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.AssemblyInfoInputs.cache
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.AssemblyInfo.cs
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.sourcelink.json
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.dll
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\refint\7.OperadoresTernarios.dll
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.pdb
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\7.OperadoresTernarios.genruntimeconfig.cache
+C:\Users\User\Documents\fundamentos de programacion\TomasSalazarFP8\7.OperadoresTernarios\7.OperadoresTernarios\obj\Debug\net8.0\ref\7.OperadoresTernarios.dll
