@@ -1,0 +1,15 @@
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\bin\Debug\net8.0\10.EscriturasDeControlCiclicas.exe
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\bin\Debug\net8.0\10.EscriturasDeControlCiclicas.deps.json
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\bin\Debug\net8.0\10.EscriturasDeControlCiclicas.runtimeconfig.json
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\bin\Debug\net8.0\10.EscriturasDeControlCiclicas.dll
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\bin\Debug\net8.0\10.EscriturasDeControlCiclicas.pdb
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.AssemblyInfoInputs.cache
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.AssemblyInfo.cs
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.csproj.CoreCompileInputs.cache
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.sourcelink.json
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.dll
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\refint\10.EscriturasDeControlCiclicas.dll
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.pdb
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\10.EscriturasDeControlCiclicas.genruntimeconfig.cache
+C:\Users\B09S305est\Documents\TomasSalazarFP8\10.EscriturasDeControlCiclicas\10.EscriturasDeControlCiclicas\obj\Debug\net8.0\ref\10.EscriturasDeControlCiclicas.dll
