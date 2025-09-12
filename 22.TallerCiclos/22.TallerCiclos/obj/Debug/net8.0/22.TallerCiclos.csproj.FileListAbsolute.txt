@@ -1,0 +1,15 @@
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net8.0\22.TallerCiclos.exe
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net8.0\22.TallerCiclos.deps.json
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net8.0\22.TallerCiclos.runtimeconfig.json
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net8.0\22.TallerCiclos.dll
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\bin\Debug\net8.0\22.TallerCiclos.pdb
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.AssemblyInfoInputs.cache
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.AssemblyInfo.cs
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.csproj.CoreCompileInputs.cache
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.sourcelink.json
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.dll
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\refint\22.TallerCiclos.dll
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.pdb
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\22.TallerCiclos.genruntimeconfig.cache
+C:\Users\salaz\Documents\TomasSalazarFP8\22.TallerCiclos\22.TallerCiclos\obj\Debug\net8.0\ref\22.TallerCiclos.dll
