@@ -1,0 +1,15 @@
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\bin\Debug\net8.0\TallerDeVectores.exe
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\bin\Debug\net8.0\TallerDeVectores.deps.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\bin\Debug\net8.0\TallerDeVectores.runtimeconfig.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\bin\Debug\net8.0\TallerDeVectores.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\bin\Debug\net8.0\TallerDeVectores.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.AssemblyInfoInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.AssemblyInfo.cs
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.sourcelink.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\refint\TallerDeVectores.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\TallerDeVectores.genruntimeconfig.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerDeVectores\TallerDeVectores\obj\Debug\net8.0\ref\TallerDeVectores.dll

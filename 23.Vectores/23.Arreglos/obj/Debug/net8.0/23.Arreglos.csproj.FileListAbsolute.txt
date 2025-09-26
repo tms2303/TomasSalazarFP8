@@ -1,0 +1,15 @@
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\bin\Debug\net8.0\23.Arreglos.exe
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\bin\Debug\net8.0\23.Arreglos.deps.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\bin\Debug\net8.0\23.Arreglos.runtimeconfig.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\bin\Debug\net8.0\23.Arreglos.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\bin\Debug\net8.0\23.Arreglos.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.AssemblyInfoInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.AssemblyInfo.cs
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.sourcelink.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\refint\23.Arreglos.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\23.Arreglos.genruntimeconfig.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\23.Vectores\23.Arreglos\obj\Debug\net8.0\ref\23.Arreglos.dll
