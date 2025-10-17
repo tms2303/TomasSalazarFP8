@@ -1,0 +1,15 @@
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\bin\Debug\net8.0\TallerModular.exe
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\bin\Debug\net8.0\TallerModular.deps.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\bin\Debug\net8.0\TallerModular.runtimeconfig.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\bin\Debug\net8.0\TallerModular.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\bin\Debug\net8.0\TallerModular.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.AssemblyInfoInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.AssemblyInfo.cs
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.sourcelink.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\refint\TallerModular.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\TallerModular.genruntimeconfig.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\TallerModular\TallerModular\obj\Debug\net8.0\ref\TallerModular.dll
