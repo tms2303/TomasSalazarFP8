@@ -1,0 +1,15 @@
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\bin\Debug\net8.0\Parcial_Arreglos.exe
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\bin\Debug\net8.0\Parcial_Arreglos.deps.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\bin\Debug\net8.0\Parcial_Arreglos.runtimeconfig.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\bin\Debug\net8.0\Parcial_Arreglos.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\bin\Debug\net8.0\Parcial_Arreglos.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.AssemblyInfoInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.AssemblyInfo.cs
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.sourcelink.json
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\refint\Parcial_Arreglos.dll
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.pdb
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\Parcial_Arreglos.genruntimeconfig.cache
+C:\Users\salaz\OneDrive\Documentos\TomasSalazarFP8\Parcial_Arreglos\Parcial_Arreglos\obj\Debug\net8.0\ref\Parcial_Arreglos.dll
